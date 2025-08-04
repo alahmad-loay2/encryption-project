@@ -20,3 +20,12 @@ cd to directory
 
 ## results 
 multi threading version was the fastest due to having a shared memory and not being a cpu intesive task
+
+![Alt text](images/Screenshot from 2024-11-26 20-29-49.png)
+
+![Alt text](images/Screenshot from 2024-11-26 20-33-05.png)
+
+![Alt text](images/Screenshot from 2024-11-26 20-31-09.png)
+
+
+
