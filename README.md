@@ -1,2 +1,10 @@
-# encryption-project
-Caesar Cipher Encryption in C++ — Built and tested on Ubuntu using multithreading, multiprocessing, and standard methods. Designed for Linux systems.
+# Caesar Cipher Project
+
+C++ program to encrypt/decrypt text files using Caesar cipher (shift by 2).
+
+## Versions
+- Normal (single-threaded)
+- Process-based (fork)
+- Multithreaded (threads + semaphores) — fastest
+
+## Usage (Ubuntu)
